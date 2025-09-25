@@ -11,7 +11,7 @@ Authoritative. Manage work via these rules:
 - **Always read** the latest feature’s `RESULT.md` before new work.
 
 - **Always regenerate** `/FILETREE.md` after any code change:  
-  - Format as a **Markdown text file** (never binary).  
+  - - It must be a **UTF-8 Markdown text file** (never binary).  
   - Use a fenced code block with a directory tree (≤4 levels).  
   - Add a **1–2 line summary** below each project root directory.  
   - Example:
