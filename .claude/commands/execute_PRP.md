@@ -32,9 +32,9 @@ Implement a feature using using the PRP file.
    - Ensure all checklist items done
    - Run final validation suite
    - Report completion status
-   - Read the PRP again to ensure you have implemented everything
+   - Read the spec again to ensure you have implemented everything
 
 6. **Reference the PRP**
-   - You can always reference the PRP again if needed
+   - You can always reference the spec again if needed
 
 Note: If validation fails, use error patterns in PRP to fix and retry.
